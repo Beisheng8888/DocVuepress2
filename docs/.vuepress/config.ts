@@ -14,7 +14,7 @@ export default defineUserConfig({
     base: '/DocVuepress',
     lang: 'zh-CN',
     title: 'JavaDoc',
-    description: '这是新的 JavaDoc 1站点',
+    description: '这是新的 JavaDoc 11站点',
 
     // <head>中的额外标记
     head,
