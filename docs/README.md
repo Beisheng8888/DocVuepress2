@@ -5,7 +5,7 @@ heroImage: /images/hero.png
 actions:
 
 - text: 快速上手
-  link: ./Java/my.html
+  link: /Java/my.html
   type: primary
 - text: 项目简介
   link: /Java/

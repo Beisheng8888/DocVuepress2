@@ -11,7 +11,7 @@ const isProd = process.env.NODE_ENV === 'production'
 
 export default defineUserConfig({
 
-    base: '/DocVuepress',
+    base: './DocVuepress',
     lang: 'zh-CN',
     title: 'JavaDoc',
     description: '这是新的 JavaDoc1 11站点',
